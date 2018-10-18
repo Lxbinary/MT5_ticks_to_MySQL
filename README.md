@@ -3,6 +3,9 @@
 
 Настройки:
 ![Иллюстрация к проекту](https://github.com/Lxbinary/MT5_ticks_to_MySQL/raw/master/image/setup.png)
+<p align="center">
+  <img src="https://github.com/Lxbinary/MT5_ticks_to_MySQL/raw/master/image/setup.png" width="350"/>
+</p>
 
 После коннекта к базе советник сам создает нужные таблицы под каждую пару
 
